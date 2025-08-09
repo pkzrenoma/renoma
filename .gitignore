@@ -44,3 +44,6 @@ public/_next-video
 
 # archive
 _archive/*
+
+# backup
+backup/*
